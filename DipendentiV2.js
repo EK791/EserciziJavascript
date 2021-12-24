@@ -72,6 +72,7 @@ for (i = 0; i < dipendenti.length; i++){
     }
 }
 
+console.log("")
 console.log("Il costo totale per la categoria I è: "+prova.categoriaI)
 console.log("Il costo totale per la categoria D è: "+prova.categoriaD)
 console.log("Il costo totale per la categoria T è: "+prova.categoriaT)
