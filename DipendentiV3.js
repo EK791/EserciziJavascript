@@ -44,6 +44,6 @@ for (m = 0; m < dipendenti.length; m++) {
 }
 
 console.log("Questo è il nuovo JSON con aggiunto costoDipendente e Ore totali lavorate")
-console.log(prova(pNuovoJson))
+console.log(prova(nuovojson))
 
 
